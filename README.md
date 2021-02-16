@@ -5,6 +5,7 @@
 <a href="url"><img src="/login.jpeg" align="left" height="600" width="280" ></a>
 <a href="url"><img src="/map.jpeg" align="left" height="600" width="280" ></a>
 <a href="url"><img src="/navigation.jpeg" align="left" height="600" width="280" ></a>
+<a href="url"><img src="/add_charging_port.jpeg" align="left" height="600" width="280" ></a>
 
 
 
